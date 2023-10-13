@@ -1,0 +1,14 @@
+jeetega bhai jeetega india jeetega 
+milestone tomorrow 
+ind vs pak also tomorrow
+
+public class Milestone
+{
+ Milestone m = new Milestone;
+ if (m<65%){
+ Console.WriteLine(Fail);
+}
+else{
+Console.WriteLine(Pass);
+  }
+}
